@@ -14,6 +14,8 @@ Initialize the `docusaurus` project
 
 ```bash 
 pnpm dlx create-docusaurus@latest my-first-docusaurus classic
+cd my-first-docusaurus
+pnpm install
 ```
 
 ## Running Docusaurus

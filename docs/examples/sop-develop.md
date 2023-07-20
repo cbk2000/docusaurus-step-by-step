@@ -21,10 +21,6 @@ cd docubase
 ```bash
 git config --global core.autocrlf false
 ```
-#### Install Dependencies
-```bash
-yarn
-```
 
 ### Create new branch
 ```bash
